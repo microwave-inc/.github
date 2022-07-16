@@ -23,8 +23,8 @@
 
 [![Website - Currently offline](https://img.shields.io/badge/Website-Currently_offline-red?logo=html5&logoColor=orange)](https://microwavebot.tech)
 
-[![Microwave repo](https://img.shields.io/badge/Microwave_Bot-Click_here-blue?style=for-the-badge)](/docs/ "Go to Microwave Bot repo")
-[![MIcrowave website repo](https://img.shields.io/badge/Microwave_Website-Click_here-blue?style=for-the-badge)](/docs/ "Go to Microwave Website repo")
+[![Microwave repo](https://img.shields.io/badge/Microwave_Bot-Unavailable-red?style=for-the-badge)](/# "Go to Microwave Bot repo")
+[![MIcrowave website repo](https://img.shields.io/badge/Microwave_Website-Click_here-blue?style=for-the-badge)](https://github.com/microwave-inc/microwave-website "Go to Microwave Website repo")
 
 # Who are we
 
