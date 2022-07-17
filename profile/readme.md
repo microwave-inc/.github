@@ -21,7 +21,7 @@
 
 [![Contact us - microwave@microwavebot.tech](https://img.shields.io/badge/Contact_us-github%40microwavebot.tech-FFFFFF?logo=Mail.Ru&logoColor=000000)](mailto:github@microwavebot.tech "Contact us")
 
-[![Website - Click here](https://img.shields.io/badge/Website-Click_here-red?logo=html5&logoColor=green)](https://microwavebot.tech)
+[![Website - Click here](https://img.shields.io/badge/Website-Click_here-green?logo=html5&logoColor=orange)](https://microwavebot.tech)
 
 [![Microwave repo](https://img.shields.io/badge/Microwave_Bot-Unavailable-red?style=for-the-badge)](/# "Go to Microwave Bot repo")
 [![MIcrowave website repo](https://img.shields.io/badge/Microwave_Website-Click_here-blue?style=for-the-badge)](https://github.com/microwave-inc/microwave-website "Go to Microwave Website repo")
@@ -46,7 +46,7 @@ Send and email to me over at [ayden@microwavebot.tech](mailto:ayden@microwavebot
 - Packages
   - [![Flask -  ](https://img.shields.io/badge/Flask-_-white?logo=flask)](https://flask.palletsprojects.com/)
   - [![Discord.py -  ](https://img.shields.io/badge/Discord.py-_-5865F2?logo=discord)](https://discordpy.readthedocs.io/en/stable/)
-  - [![Discord.js -  ](https://img.shields.io/badge/Discord.js-_-green?logo=discord)](https://discordpy.readthedocs.io/en/stable/)
+  - [![Discord.js -  ](https://img.shields.io/badge/Discord.js-_-green?logo=discord)](https://discord.js.org/#/docs/discord.js/main/general/welcome)
   
 # Any questions?
 
