@@ -46,6 +46,7 @@ Send and email to me over at [ayden@microwavebot.tech](mailto:ayden@microwavebot
 - Packages
   - [![Flask -  ](https://img.shields.io/badge/Flask-_-white?logo=flask)](https://flask.palletsprojects.com/)
   - [![Discord.py -  ](https://img.shields.io/badge/Discord.py-_-5865F2?logo=discord)](https://discordpy.readthedocs.io/en/stable/)
+  - [![Discord.js -  ](https://img.shields.io/badge/Discord.js-_-green?logo=discord)](https://discordpy.readthedocs.io/en/stable/)
   
 # Any questions?
 
