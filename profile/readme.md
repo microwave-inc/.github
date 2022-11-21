@@ -51,3 +51,9 @@ Send and email to me over at [ayden@microwavebot.tech](mailto:ayden@microwavebot
 # Any questions?
 
 Don't be afraid to shoot us an email over at [github@microwavebot.tech](mailto:github@microwavebot.tech)
+
+# Want to donate?
+
+You can send some XMR (Monero) over to our wallet this will fund VPS's and future projects
+
+address: `4AtvHjAtpQrFxKWNoY4o9a8XccuNZSZH8VMTZsDzCepQbuiASCtNffU7Lh6Ac7Nk5cVUA7xvMqHovSsXrf86b4sG2jNmJL1`
