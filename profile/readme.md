@@ -5,13 +5,12 @@
 - Leadership
   - [Ayden](https://github.com/galaxine-senpai) - The founder/Head of Bot Development
   - [Fonta22](https://github.com/Fonta22) - Asst. Head of Bot Development
-  - [Allison](https://github.com/Allybe) - Head of Website Development
+  - Yapudjus - Head of Website Development
   - Polbbo_ - Lead Designer
 
 - Bot Development
   - [Yapudjus](https://github.com/yapudjus)
   - [Sopy](https://github.com/sopyb)
-  - Allison
 
 - Website Development
   - Sopy
