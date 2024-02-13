@@ -18,12 +18,12 @@
   
 # Badges
 
-[![Contact us - microwave@microwavebot.tech](https://img.shields.io/badge/Contact_us-github%40microwavebot.tech-FFFFFF?logo=Mail.Ru&logoColor=000000)](mailto:github@microwavebot.tech "Contact us")
+[![Contact us - hello@microwavebot.com](https://img.shields.io/badge/Contact_us-hello%40microwavebot.com-FFFFFF?logo=Mail.Ru&logoColor=000000)](mailto:hello@microwavebot.com "Contact us")
 
-[![Website - Click here](https://img.shields.io/badge/Website-Click_here-green?logo=html5&logoColor=orange)](https://microwavebot.tech)
+[![Website - Click here](https://img.shields.io/badge/Website-Click_here-green?logo=html5&logoColor=orange)](https://microwavebot.com)
 
 [![Microwave repo](https://img.shields.io/badge/Microwave_Bot-Click_Here-blue?style=for-the-badge)](https://github.com/microwave-inc/microwave.js "Go to Microwave Bot repo")
-[![MIcrowave website repo](https://img.shields.io/badge/Microwave_Website-Click_here-blue?style=for-the-badge)](https://github.com/microwave-inc/microwave-website "Go to Microwave Website repo")
+[![MIcrowave website repo](https://img.shields.io/badge/Microwave_Website-Click_here-blue?style=for-the-badge)](https://github.com/microwave-inc/microwavebot-web "Go to Microwave Website repo")
 
 # Who are we
 
@@ -35,7 +35,7 @@ We have no true goal, but the unwritted goal is to learn and perfect/master our 
 
 # How can I join?
 
-Send and email to me over at [ayden@microwavebot.tech](mailto:ayden@microwavebot.tech)
+Send and email to me over at [ayden@microwavebot.com](mailto:ayden@microwavebot.com)
 
 # What languages/packages do we specialize in
 
@@ -49,7 +49,7 @@ Send and email to me over at [ayden@microwavebot.tech](mailto:ayden@microwavebot
   
 # Any questions?
 
-Don't be afraid to shoot us an email over at [github@microwavebot.tech](mailto:github@microwavebot.tech)
+Don't be afraid to shoot us an email over at [hello@microwavebot.com](mailto:hello@microwavebot.com)
 
 # Want to donate?
 
